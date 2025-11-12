@@ -94,6 +94,5 @@ The video walks through:
 
 - Always **save your work** after major updates.  
 - Ensure macros are enabled; otherwise, the automation features will not work.  
-- Manual updates to “All Records” are **not recommended** — always use macros to keep data integrity.  
 - For troubleshooting or bug reporting, please contact me via email.
 
